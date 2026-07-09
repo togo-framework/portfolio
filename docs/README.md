@@ -2,13 +2,13 @@
 
 Project resource + portfolio list & slug detail pages (with GitHub cards).
 
-- **Source:** https://github.com/fadymondy/portfolio
+- **Source:** https://github.com/togo-framework/portfolio
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/portfolio
+togo install togo-framework/portfolio
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

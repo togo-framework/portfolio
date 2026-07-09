@@ -1,4 +1,4 @@
-module github.com/fadymondy/portfolio
+module github.com/togo-framework/portfolio
 
 go 1.26.4
 
